@@ -9,3 +9,10 @@ body {
 .titulo {
     font-size: 1.8rem;
 }
+
+.far  {
+
+    cursor: pointer;
+    margin-left: 10px;
+
+}
